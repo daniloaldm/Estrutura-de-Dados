@@ -1,0 +1,14 @@
+01-   Faça um método que receba como pagamento
+      duas árvores binárias e diga se as mesmas
+      são iguais.
+      
+02-   Dada uma árvore binária completa, qual a
+      relação entre o número de nós externos e 
+      internos?
+      
+03-   Implemente um método para calcular a altura 
+      de um nó de uma árvore de forma iterativa.
+      
+04-   Implemente um método para calcular a profun-
+      didade de um nó de uma árvore binária de for-
+      ma iterativa.   
